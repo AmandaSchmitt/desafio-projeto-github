@@ -1,7 +1,7 @@
 # Desafio de projeto
 
 **Repositório criado para desafio de projeto da DIO**
-### desafio-projeto-github
+
 <em>Primeiro desafio de projeto Github.</em>
 
 ## Links úteis
