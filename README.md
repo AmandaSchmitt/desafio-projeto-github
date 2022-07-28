@@ -1,8 +1,8 @@
-## Desafio de projeto
+# Desafio de projeto
 
-** Repositório criado para desafio de projeto da DIO **
-# desafio-projeto-github
-Desafio de projeto Github da Dio
+**Repositório criado para desafio de projeto da DIO**
+### desafio-projeto-github
+<em>Primeiro desafio de projeto Github.</em>
 
 ## Links úteis
-[sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
+- [sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
